@@ -1,0 +1,11 @@
+.hero-text {
+  width: 50%;
+  transform: translateX(50%);
+}
+
+@media screen and (max-width: 768px) {
+  .hero-text {
+    width: 100%;
+    transform: translateX(0);
+  }
+}
