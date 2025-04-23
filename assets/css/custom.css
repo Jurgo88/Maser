@@ -40,6 +40,7 @@
   padding: 2%;
   border: 3px solid #3a271a;
   border-radius: 20px;
+  transition: all 0.3s ease-in-out;
 }
 .image-kokotko:hover {
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
