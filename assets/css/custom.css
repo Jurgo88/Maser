@@ -18,6 +18,10 @@
   height: 50px;
 }
 
+.druha-sekcia{  
+  background-color: #3a271a !important;
+}
+
 .druha-sekcia h3 {
   text-align: center;
 }
@@ -27,6 +31,23 @@
   display: block;
   padding: 3%;
   /* margin: 0 auto; */
+}
+.image-kokotko {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2%;
+  border: 3px solid #3a271a;
+  border-radius: 20px;
+}
+.image-kokotko:hover {
+  transform: scale(1.25);
+  transition: transform 0.3s ease;
+}
+
+.image-picusik{
+  margin: 5%;
 }
 
 @media screen and (max-width: 768px) {
