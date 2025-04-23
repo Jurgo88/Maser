@@ -18,6 +18,17 @@
   height: 50px;
 }
 
+.druha-sekcia h3 {
+  text-align: center;
+}
+
+.druha-sekcia icon {
+  text-align: center;
+  display: block;
+  padding: 3%;
+  /* margin: 0 auto; */
+}
+
 @media screen and (max-width: 768px) {
   .hero-text {
     width: 100%;
