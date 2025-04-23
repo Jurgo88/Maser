@@ -1,6 +1,21 @@
 .hero-text {
   width: 50%;
   transform: translateX(50%);
+  font-size: 24px;
+}
+#logo img {
+  width: 50px;
+  height: 50px;
+  margin: 0 auto;
+}
+#logo {
+  background-image: url('images/68logo carbon2.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: block;
+  width: 170px;
+  height: 50px;
 }
 
 @media screen and (max-width: 768px) {
