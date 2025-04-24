@@ -32,6 +32,10 @@
   padding: 3%;
   /* margin: 0 auto; */
 }
+
+#about{
+  padding: 5%;
+}
 .image-kokotko {
   width: 100%;
   height: auto;
@@ -51,6 +55,28 @@
 
 .image-picusik{
   margin: 5%;
+}
+
+.box {
+  /* background-color: #3a271a; */
+  padding: 2%;
+  /* border-radius: 10px;s */
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); */
+  text-align: left;
+  min-height: 100px;
+}
+.box h3 {
+  text-align: start;
+  /* color: #fff; */
+}
+
+.style3 ul.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 @media screen and (max-width: 768px) {
